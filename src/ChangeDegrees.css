@@ -1,0 +1,7 @@
+.active {
+  cursor: pointer;
+}
+
+.active:hover {
+  text-decoration: none;
+}

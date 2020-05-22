@@ -1,0 +1,15 @@
+small {
+  font-size: 15px;
+}
+
+big {
+  font-size: 40px;
+}
+
+.active {
+  cursor: pointer;
+}
+
+.active:hover {
+  text-decoration: none;
+}

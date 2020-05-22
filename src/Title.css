@@ -1,0 +1,8 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.title {
+  color: #fa7e1e;
+  text-align: center;
+  text-decoration-line: inherit;
+  font-size: 60px;
+}
